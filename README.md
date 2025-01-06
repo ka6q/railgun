@@ -1,4 +1,4 @@
-# Railgun - "Making Hardware Softer (instead of making software harder)"
+# Railgun - "Making Hardware Softer" (instead of making software harder)
 
 ## DSL to compile BigData AI/ML Application to FPGA/ASIC Gates
 
