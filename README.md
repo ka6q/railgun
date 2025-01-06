@@ -1,5 +1,6 @@
-# Railgun - Application to Gates DSL
-## Accelerating RDBMS Hadoop AI/ML using FPGA/ASIC
+# Railgun - "Making Hardware Softer (instead of making software harder)"
+
+## DSL to compile BigData AI/ML Application to FPGA/ASIC Gates
 
 ### Railgun: High Performance FPGA supports ETL-free Big Data for Machine Learning: 
 
