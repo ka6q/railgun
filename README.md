@@ -1,8 +1,7 @@
-# Railgun - "Making Hardware Softer" (instead of making software harder)
-
-## DSL to compile BigData AI/ML Application to FPGA/ASIC Gates
-
 # [Browse Project Railgun](https://github.enablery.org/shri/railgun/)
+
+# Railgun - "Making Hardware Softer" (instead of making software harder)
+## DSL to compile BigData AI/ML Application to FPGA/ASIC Gates
 
 ### Railgun: High Performance FPGA supports ETL-free Big Data for Machine Learning: 
 
