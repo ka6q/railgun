@@ -2,7 +2,7 @@
 
 ## DSL to compile BigData AI/ML Application to FPGA/ASIC Gates
 
-# [Browse Project Railgun](https://point.enablery.org/shri/railgun/)
+# [Browse Project Railgun](https://github.enablery.org/shri/railgun/)
 
 ### Railgun: High Performance FPGA supports ETL-free Big Data for Machine Learning: 
 
@@ -23,6 +23,6 @@ Lightweight modular staging. was used to host the Railgun DSL in the Scala
 enviroment. This allowed programs that resembled Scala to be directly
 compiled into low-latency high-performance FPGA Verilog
 
-# [Browse Project Railgun](https://point.enablery.org/shri/railgun/)
+# [Browse Project Railgun](https://github.enablery.org/shri/railgun/)
 
 
