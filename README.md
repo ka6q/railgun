@@ -22,6 +22,8 @@ Lightweight modular staging. was used to host the Railgun DSL in the Scala
 enviroment. This allowed programs that resembled Scala to be directly
 compiled into low-latency high-performance FPGA Verilog
 
+This project was a collaboration with Michael deLorimier.
+
 # [Browse Project Railgun](https://github.enablery.org/shri/railgun/)
 
 
